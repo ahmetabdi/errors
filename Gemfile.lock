@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    errors (0.0.1)
+    errors (0.0.2)
       json
       multi_json
 
