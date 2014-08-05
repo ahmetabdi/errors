@@ -27,13 +27,13 @@ Or install it yourself as:
 => 'Not Found' ``
 
 ``error.description
-=> indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists.``
+=> 'indicates that the origin server did not find a current representation for the target resource or is not willing to disclose that one exists.' ``
 
 ``error.spec_title  
-=> RFC7231#6.5.4``
+=> 'RFC7231#6.5.4' ``
 
 ``error.spec_href
-=> http://tools.ietf.org/html/rfc7231#section-6.5.4``
+=> 'http://tools.ietf.org/html/rfc7231#section-6.5.4' ``
 
 ## Contributing
 
