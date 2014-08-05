@@ -1,4 +1,5 @@
-# Errors
+# Errors 
+[![Build Status](https://travis-ci.org/ahmetabdi/errors.svg?branch=master)](https://travis-ci.org/ahmetabdi/errors)
 
 Handles HTTP status codes to give more detailed information.
 
